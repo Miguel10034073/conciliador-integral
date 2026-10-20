@@ -1,0 +1,16 @@
+# Las copias de seguridad y los reportes del mes tienen datos contables: nunca se suben.
+# Viven fuera de esta carpeta ("002. Conciliador integral Web\Copias de seguridad"); estas reglas son por si acaso.
+Copias de seguridad/
+*.json
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.xml
+*.zip
+
+# Archivos del sistema
+.DS_Store
+desktop.ini
+Thumbs.db
+~$*
